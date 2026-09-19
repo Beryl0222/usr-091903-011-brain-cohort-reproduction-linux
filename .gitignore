@@ -9,4 +9,5 @@ build/
 coverage/
 __pycache__/
 *.py[cod]
+cohort.db*
 .DS_Store
